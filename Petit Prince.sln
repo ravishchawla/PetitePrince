@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Petit Prince", "Petit Prince\Petit Prince\Petit Prince.csproj", "{76E51C21-BEC0-4E4B-9C4E-FAA2787DCC7A}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "Petit PrinceContent", "Petit Prince\Petit PrinceContent\Petit PrinceContent.contentproj", "{2F9378A4-8D34-486F-810C-4CCE38C44D11}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{76E51C21-BEC0-4E4B-9C4E-FAA2787DCC7A}.Debug|x86.ActiveCfg = Debug|x86
+		{76E51C21-BEC0-4E4B-9C4E-FAA2787DCC7A}.Debug|x86.Build.0 = Debug|x86
+		{76E51C21-BEC0-4E4B-9C4E-FAA2787DCC7A}.Release|x86.ActiveCfg = Release|x86
+		{76E51C21-BEC0-4E4B-9C4E-FAA2787DCC7A}.Release|x86.Build.0 = Release|x86
+		{2F9378A4-8D34-486F-810C-4CCE38C44D11}.Debug|x86.ActiveCfg = Debug|x86
+		{2F9378A4-8D34-486F-810C-4CCE38C44D11}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
